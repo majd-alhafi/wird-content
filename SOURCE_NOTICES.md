@@ -1,6 +1,6 @@
-# مصادر محتوى وِرد 3.0 — مراجعة 2026-10-20
+# مصادر محتوى وِرد 3.2 — مراجعة 2026-10-21
 
-المحتوى المحضّر للاستضافة: 604 صفحة أصلية، 3 ترجمات كاملة، 11 تفسيراً عربياً، صحيحا البخاري ومسلم بالعربية. هذه قائمة مختارة قابلة للتوسعة، وليست ادعاء جمع جميع التفاسير أو مراجعة علمية جديدة للنصوص.
+المحتوى المحضّر للاستضافة: 604 صفحة أصلية، 3 ترجمات كاملة، 11 تفسيراً عربياً، صحيحا البخاري ومسلم وسنن أبي داود والترمذي والنسائي (المجتبى) وابن ماجه بالعربية. هذه قائمة مختارة قابلة للتوسعة، وليست ادعاء جمع جميع التفاسير أو مراجعة علمية جديدة للنصوص.
 
 ## الترخيص والقيود
 
@@ -44,3 +44,13 @@
 ## النشر
 
 لم يحدث نشر إلى حساب المستخدم. حزمة الاستضافة لا تتضمن أصوات الأذان الخاصة ذات الحقوق غير المحسومة ولا بيانات الجهاز. لا تستخدم هذه الحزمة في خدمة تجارية دون إعادة مراجعة حقوق OpenITI. لا تغير الشروط الأصلية عند النقل.
+
+## السنن المضافة في 3.2
+
+- سنن أبي داود: https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0275AbuDawudSijistani/0275AbuDawudSijistani.Sunan/0275AbuDawudSijistani.Sunan.JK000142-ara1 — 92 جزءاً، CC BY-NC-SA 4.0، SHA256 المصدر `94d6fe547384efd2f8b369879775f617cb6283053482dc672ff04fbb5454292e`.
+- سنن ابن ماجه: https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0273IbnMaja/0273IbnMaja.Sunan/0273IbnMaja.Sunan.JK000141-ara1 — 95 جزءاً، CC BY-NC-SA 4.0، SHA256 المصدر `657694d7a863460a53339a429399b54ad0a7c4c564e53e50d847aaab401290f2`.
+- سنن النسائي — المجتبى: https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0303Nasai/0303Nasai.SunanSughra/0303Nasai.SunanSughra.JK000130-ara1.mARkdown — 149 جزءاً، CC BY-NC-SA 4.0، SHA256 المصدر `5afdd931303a85babd351afd72063cad455327b13263f16c5de2f6df5f30a4d1`.
+- سنن الترمذي: https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0279Tirmidhi/0279Tirmidhi.Sunan/0279Tirmidhi.Sunan.JK000140-ara1.completed — 201 جزءاً، CC BY-NC-SA 4.0، SHA256 المصدر `5bc99d3d942ceaa729a83c11389016d940ae11fb0b641a4e012c743f9e44b647`.
+
+## مراجعة ملف الأدعية المطلوب
+https://github.com/nawafalqari/ayah/blob/main/src/data/adkar.json : فُحص 2026-10-21؛ 127 إدخالاً ضمن 8 أقسام، 39 مرجعاً غير فارغ. لا توجد LICENSE في جذر المستودع، وsrc/data/README.md ينسب الأذكار إلى islambook.com دون شروط إعادة توزيع. لم تُنسخ هذه المجموعة إلى التطبيق أو الاستضافة. استُخدمت بدلاً منها نصوص حصن المسلم المرخصة MIT من المصدر الموثق في ASSET_CREDITS.md.

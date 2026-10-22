@@ -52,7 +52,18 @@ published translations, not generated translations of religious content.
   `tool/quranpedia_selected.py`, then `tool/prepare_quranpedia.py`. The static
   mirror does not silently promise automatic upstream correction synchronization.
 
-## App changes (not an APK release)
+## Embedded archive licence
+
+The ZIP's actual `LICENSE.md` was separately retrieved by byte range and its
+CRC32 verified. It states version **2026-10-22**, whereas the live licence URL
+reviewed above states **2026-10-19**. Both carry the same operative application
+and credited-dataset republication conditions, with the same author/publisher
+rights reservation and third-party-source exclusions. The archive licence is
+preserved as `sources/quranpedia/archive-LICENSE.md` on the content site. The
+catalogue's 2026-10-19 licence label identifies the reviewed live policy, not
+an invented per-translation licence. The actual dump/source snapshot is 2026-10-22.
+
+## App changes (included in 3.5)
 
 The offered interface languages are Arabic, English, French, Spanish, Turkish,
 Indonesian, Persian, Sorani Kurdish and Kazakh. Both Spanish translation editions
@@ -64,5 +75,6 @@ the app's Sorani labels and overall writing direction remain Sorani/RTL.
 
 Shared dropdown styling, edition volume/page labels, removal of the content
 language filter and a 2,000 ms native splash were implemented. Native splash
-duration includes the existing final 150 ms fade. Existing APK is untouched;
-these source changes need a later user-authorized build to appear on the phone.
+duration includes the existing final 150 ms fade. The owner subsequently
+authorized release 3.5 with three additional hadith books. See VERIFICATION_3_5.md
+for actual build, install and verification results; the previous APK is backed up.

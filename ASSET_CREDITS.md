@@ -217,3 +217,14 @@ Original Noto Sans, Noto Sans Bengali, Noto Sans Devanagari, Noto Sans Tamil, No
 
 ### 3.4.0 editorial and splash update
 The current downloadable catalogue contains 19 editions, with only Tabari/Ibn Kathir/Baghawi tafsir; older entries documented above are historical and are no longer offered by the app. See CONTENT_POLICY.md. The user-reference six-scene PNG was edited with built-in image_gen to correct the wide Kaaba; exact prompt, SHA256 and provenance are in assets/licenses/reference-brand.json. This remains AI-edited illustrative artwork. The researched Wikimedia night photograph in tool/sources/makkah-original-photo.jpg was not used or bundled.
+# Selected Quranpedia translations (2026-10-22)
+
+Nine selected published editions now replace the earlier three-translation
+catalogue. See [QURANPEDIA_TRANSLATIONS.md](QURANPEDIA_TRANSLATIONS.md) for exact
+IDs, source snapshot, integrity checks and rights limitations. Reused under
+[Quranpedia's data terms](https://quranpedia.net/dumps/LICENSE.md), with source
+and version attribution in the downloadable content catalogue. Author/publisher
+rights remain reserved; these translations are not labelled public domain or CC.
+Original translation text and notes are preserved, stored on the content site,
+and downloaded by surah on demand rather than bundled in the APK.
+

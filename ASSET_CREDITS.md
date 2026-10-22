@@ -211,3 +211,9 @@ These are corpus transcriptions, not a claim of new scholarly proofreading or au
 - Exact prompt, SHA256, grid and text are recorded in `assets/licenses/reference-brand.json`.
 - The original verse (Al-Baqarah 238) is rendered with bundled Amiri fonts by native code, outside generated imagery.
 - Existing artwork files remain for compatibility; the new native renderer uses the six-scene sheet.
+
+### Multiscript interface fonts (2026-10-22)
+Original Noto Sans, Noto Sans Bengali, Noto Sans Devanagari, Noto Sans Tamil, Noto Sans Malayalam and Noto Sans SC variable TTF files from https://github.com/google/fonts/tree/main/ofl . Each carries SIL Open Font License 1.1. Files remain unmodified; original OFL/copyright notices are bundled as `assets/licenses/<family>-OFL.txt`. Exact download URLs, bytes, SHA256 and licence URLs are in `assets/licenses/ui-fonts.json`. Downloaded files were checked against repository Git blob hashes and actual font signatures. No runtime font download is required.
+
+### 3.4.0 editorial and splash update
+The current downloadable catalogue contains 19 editions, with only Tabari/Ibn Kathir/Baghawi tafsir; older entries documented above are historical and are no longer offered by the app. See CONTENT_POLICY.md. The user-reference six-scene PNG was edited with built-in image_gen to correct the wide Kaaba; exact prompt, SHA256 and provenance are in assets/licenses/reference-brand.json. This remains AI-edited illustrative artwork. The researched Wikimedia night photograph in tool/sources/makkah-original-photo.jpg was not used or bundled.

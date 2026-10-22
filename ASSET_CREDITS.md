@@ -178,3 +178,36 @@ hijri_date 1.1.0 (https://pub.dev/packages/hijri_date/versions/1.1.0), copyright
 - assets/data/hisn-duas.json: 131 additional chapters / 283 entries from the cached original asellam/HisnElMuslim hisn.json. Text, Count, Reference retained exactly; audio links omitted. Only explicit positive-count, referenced entries are included. Stable chapter IDs derive from original titles. Existing session IDs/data remain unchanged. MIT, Copyright (c) 2021 Abdellah SELLAM; full notice assets/licenses/Hisn-MIT.txt. This dataset is a transcription, not a new scholarly authenticity assessment.
 - Requested nawafalqari/ayah/src/data/adkar.json was inspected, not bundled: no repository license; upstream islambook.com cited without redistribution permission. Audit snapshots remain in build/qa/3.2, outside APK and public hosting.
 - Four additional hosted Arabic hadith books: Abu Dawud, Tirmidhi, Nasai Sunan Sughra (al-Mujtaba), Ibn Majah. Pinned OpenITI RELEASE/v2025.1.9, CC BY-NC-SA 4.0; exact edition URLs, source SHA256, original headers and attribution in content manifest/JSON and CONTENT_SOURCES.md. Noncommercial/share-alike terms apply to these text payloads. No new audio assets added.
+
+## 3.3 interface-only changes (2026-10-21)
+No new audio, photographs, fonts or religious text added. The feature-tour spotlight is drawn by app code; existing Material icons, fonts and source content retain the licenses above. Source references remain available from the Adhkar information icon.
+
+
+## Library expansion prepared 2026-10-22 (source changes, no APK build)
+
+Source: OpenITI RELEASE v2025.1.9. Publisher licence statement:
+https://github.com/OpenITI/documentation/blob/master/index.md#how-can-i-use-openiti-what-license-is-used
+Licence: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Attribution to OpenITI and exact edition URI is retained in the manifest and every JSON part.
+The conversion splits source text into JSON and removes no religious wording; original source header/page references remain.
+The same licence applies to the derived text dataset. Non-commercial use only; no independently licensed PDF scans are included.
+These are corpus transcriptions, not a claim of new scholarly proofreading or authentication of every narration.
+
+| Work | Parts | Payload bytes | Exact edition | Original SHA256 |
+|---|---:|---:|---|---|
+| الزهد — أحمد بن حنبل | 8 | 1220770 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0241IbnHanbal/0241IbnHanbal.Zuhd/0241IbnHanbal.Zuhd.Shamela0008494-ara1.mARkdown | `625ec5d34b67183e7e0dd44bbdde4f3d2a2f51aa2636853c864a742c6f0a8292` |
+| الرسالة — الشافعي | 38 | 521492 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0204Shafici/0204Shafici.Risala/0204Shafici.Risala.JK000143-ara1 | `6edc793c3f329c1fa9950e2ac52ddf1067a3a8e2a16de37958b8f74ca55ba793` |
+| الأم — الشافعي | 140 | 11186679 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0204Shafici/0204Shafici.Umm/0204Shafici.Umm.JK000147-ara1 | `9e5e2a1c82a59d0c05f3b3bd697e94bce968571e7cf720a3de3c3667786948ff` |
+| العبودية — ابن تيمية | 8 | 192961 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0728IbnTaymiyya/0728IbnTaymiyya.Cubudiyya/0728IbnTaymiyya.Cubudiyya.Shamela0022647-ara1 | `5537ec2845de487787489ddedb9adebb3c7911d0ed9c692bf601b089b3af27fe` |
+| مقدمة في أصول التفسير — ابن تيمية | 4 | 98279 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0728IbnTaymiyya/0728IbnTaymiyya.MuqaddimaFiUsulTafsir/0728IbnTaymiyya.MuqaddimaFiUsulTafsir.Shamela0012081-ara1 | `eb5cf54102e9a301a87a83449c4f16c6913d0541fa071ab39c1533b18b195f0f` |
+| العقيدة الواسطية — ابن تيمية | 4 | 56335 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0728IbnTaymiyya/0728IbnTaymiyya.CaqidaWasitiyya/0728IbnTaymiyya.CaqidaWasitiyya.JK000359-ara1 | `dc1e19adcacfcb5561ff01390b840305655edceb4596a899bbe073f343725d6f` |
+| مسند أحمد بن حنبل | 1541 | 19230234 | https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0241IbnHanbal/0241IbnHanbal.Musnad/0241IbnHanbal.Musnad.Shamela0025794-ara1.mARkdown | `00ee0f74327d83af587153983d04ad45367fea42338566c82e871df30c2ceaa6` |
+
+### Day/night splash contact sheet (2026-10-22)
+- User reference: `C:/Users/majd alhafi/Downloads/Six Sacred Sites, Six Verses.png`.
+- Edited with built-in image_gen: all lettering removed from six scenes; architecture/day-night composition retained. These are illustrative AI-edited scenes, not archival photographs.
+- Project asset: `android/app/src/main/res/drawable-nodpi/wird_splash_six.png`.
+- No independent third-party photograph licence is asserted; provenance is the user-supplied artwork.
+- Exact prompt, SHA256, grid and text are recorded in `assets/licenses/reference-brand.json`.
+- The original verse (Al-Baqarah 238) is rendered with bundled Amiri fonts by native code, outside generated imagery.
+- Existing artwork files remain for compatibility; the new native renderer uses the six-scene sheet.

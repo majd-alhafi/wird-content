@@ -216,7 +216,7 @@ These are corpus transcriptions, not a claim of new scholarly proofreading or au
 Original Noto Sans, Noto Sans Bengali, Noto Sans Devanagari, Noto Sans Tamil, Noto Sans Malayalam and Noto Sans SC variable TTF files from https://github.com/google/fonts/tree/main/ofl . Each carries SIL Open Font License 1.1. Files remain unmodified; original OFL/copyright notices are bundled as `assets/licenses/<family>-OFL.txt`. Exact download URLs, bytes, SHA256 and licence URLs are in `assets/licenses/ui-fonts.json`. Downloaded files were checked against repository Git blob hashes and actual font signatures. No runtime font download is required.
 
 ### 3.4.0 editorial and splash update
-The current downloadable catalogue contains 19 editions, with only Tabari/Ibn Kathir/Baghawi tafsir; older entries documented above are historical and are no longer offered by the app. See CONTENT_POLICY.md. The user-reference six-scene PNG was edited with built-in image_gen to correct the wide Kaaba; exact prompt, SHA256 and provenance are in assets/licenses/reference-brand.json. This remains AI-edited illustrative artwork. The researched Wikimedia night photograph in tool/sources/makkah-original-photo.jpg was not used or bundled.
+The current downloadable catalogue contains 28 editions, with only Tabari/Ibn Kathir/Baghawi tafsir; older entries documented above are historical and are no longer offered by the app. See CONTENT_POLICY.md. The user-reference six-scene PNG was edited with built-in image_gen to correct the wide Kaaba; exact prompt, SHA256 and provenance are in assets/licenses/reference-brand.json. This remains AI-edited illustrative artwork. The researched Wikimedia night photograph in tool/sources/makkah-original-photo.jpg was not used or bundled.
 # Selected Quranpedia translations (2026-10-22)
 
 Nine selected published editions now replace the earlier three-translation
@@ -228,3 +228,7 @@ rights remain reserved; these translations are not labelled public domain or CC.
 Original translation text and notes are preserved, stored on the content site,
 and downloaded by surah on demand rather than bundled in the APK.
 
+
+## Additional Sunni hadith references (2026-10-22)
+
+Sahih Ibn Khuzaymah, Sahih Ibn Hibban (Ibn Balban arrangement), and Muwatta Malik are added as OpenITI v2025.1.9 text editions under the existing corpus CC BY-NC-SA 4.0 terms. Exact editions, reference links and limitations are recorded in ADDITIONAL_HADITH.md. Inclusion does not invent an authenticity grade for every report.

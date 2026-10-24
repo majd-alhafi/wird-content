@@ -1,0 +1,679 @@
+{
+  "id": "ahmad_fadail_sahaba",
+  "title": "فضائل الصحابة — الإمام أحمد بن حنبل",
+  "kind": "hadith",
+  "language": "ar",
+  "version": "v2025.1.9",
+  "source": "https://raw.githubusercontent.com/OpenITI/RELEASE/v2025.1.9/data/0241IbnHanbal/0241IbnHanbal.FadailSahaba/0241IbnHanbal.FadailSahaba.JK000482-ara1.mARkdown",
+  "license": "CC BY-NC-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution": "Open Islamicate Texts Initiative (OpenITI), data/0241IbnHanbal/0241IbnHanbal.FadailSahaba/0241IbnHanbal.FadailSahaba.JK000482-ara1.mARkdown",
+  "note": "Source page markers where present; otherwise numbered digital text segments, not Mushaf pages or guessed verse mappings. Corpus transcription may contain errors. Classical Sunni hadith/athar collection; inclusion is not a blanket authenticity grade. Printed PDF copies are not mirrored without verified redistribution rights.",
+  "sourceSha256": "d3d5f24cb12bd181620230f1c8fe77191ece6b0e3c4f684706ce211a44146bc7",
+  "toc": [
+    {
+      "title": "( سئل عن فضائل أبي بكر الصديق رحمة الله عليه ورضوانه )",
+      "part": 1,
+      "row": 4,
+      "offset": 0
+    },
+    {
+      "title": "سئل عن قول علي بن أبي طالب وغيره خير هذه الأمة بعد نبيها أبو بكر وعمر",
+      "part": 2,
+      "row": 0,
+      "offset": 0
+    },
+    {
+      "title": "قوله صلى الله عليه وسلم لو كنت متخذا من الناس خليلا لاتخذت أبا بكر خليلا",
+      "part": 3,
+      "row": 4,
+      "offset": 0
+    },
+    {
+      "title": "قوله صلى الله عليه وسلم مروا أبا بكر فليصل بالناس",
+      "part": 3,
+      "row": 13,
+      "offset": 0
+    },
+    {
+      "title": "( بقية قوله مروا أبا بكر يصلي بالناس )",
+      "part": 4,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( أن أول من اسلم أبو بكر )",
+      "part": 11,
+      "row": 2,
+      "offset": 177
+    },
+    {
+      "title": "( ما روي ان أبا بكر جاء ليستأذن فقال النبي صلى الله عليه وسلم ائذن",
+      "part": 11,
+      "row": 11,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل أمير المؤمنين عمر بن الخطاب رضي الله عنه )",
+      "part": 12,
+      "row": 8,
+      "offset": 0
+    },
+    {
+      "title": "( إسلام عمر بن الخطاب رضي الله عنه )",
+      "part": 14,
+      "row": 10,
+      "offset": 362
+    },
+    {
+      "title": "( باب خير هذه الأمة بعد نبيها )",
+      "part": 16,
+      "row": 3,
+      "offset": 0
+    },
+    {
+      "title": "( ومن فضائل عمر بن الخطاب من حديث أبي بكر بن مالك عن مشائخه غير",
+      "part": 18,
+      "row": 8,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل عثمان بن عفان رضي الله عنه )",
+      "part": 26,
+      "row": 0,
+      "offset": 0
+    },
+    {
+      "title": "( ومن فضائل عثمان من حديث أبي بكر بن مالك عن شيوخه سوى عبد الله بن",
+      "part": 29,
+      "row": 9,
+      "offset": 0
+    },
+    {
+      "title": "( أخيار أمير المؤمنين علي بن أبي طالب وزهده رضوان الله عليه )",
+      "part": 31,
+      "row": 4,
+      "offset": 0
+    },
+    {
+      "title": "( نسب أمير المؤمنين علي بن أبي طالب رضي الله عنه )",
+      "part": 32,
+      "row": 11,
+      "offset": 398
+    },
+    {
+      "title": "( اسم أمه ونسبها )",
+      "part": 32,
+      "row": 14,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل علي عليه السلام )",
+      "part": 33,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( ومن فضائل علي رضي الله عنه من حديث أبي بكر بن مالك عن شيوخه غير",
+      "part": 36,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل عبد الرحمن بن عوف رضي الله عنه )",
+      "part": 44,
+      "row": 1,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل الزبير بن العوام رضي الله عنه )",
+      "part": 44,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل أبي عبيدة بن الجراح رضي الله عنه )",
+      "part": 44,
+      "row": 11,
+      "offset": 211
+    },
+    {
+      "title": "( فضائل طلحة بن عبيد الله رضي الله عنه )",
+      "part": 45,
+      "row": 1,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل سعد بن أبي وقاص رضي الله عنه )",
+      "part": 45,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل فاطمة بنت رسول الله صلى الله عليه وسلم )",
+      "part": 45,
+      "row": 12,
+      "offset": 425
+    },
+    {
+      "title": "( فضائل الحسن والحسين رضي الله عنهما )",
+      "part": 46,
+      "row": 9,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل الأنصار رضي الله عنهم )",
+      "part": 48,
+      "row": 2,
+      "offset": 427
+    },
+    {
+      "title": "( فضائل خالد بن الوليد رحمه الله )",
+      "part": 49,
+      "row": 11,
+      "offset": 271
+    },
+    {
+      "title": "( فضائل سعد بن معاذ رحمه الله )",
+      "part": 50,
+      "row": 1,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل حارثة بن النعمان رضي الله عنه )",
+      "part": 50,
+      "row": 10,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل صهيب رضي الله عنه )",
+      "part": 50,
+      "row": 11,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل العرب )",
+      "part": 50,
+      "row": 11,
+      "offset": 418
+    },
+    {
+      "title": "( فضائل أسامة بن زيد رضي الله عنه )",
+      "part": 51,
+      "row": 2,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل عبد الله بن مسعود رضي الله عنه )",
+      "part": 51,
+      "row": 5,
+      "offset": 246
+    },
+    {
+      "title": "( فضائل عبد الله بن عباس رضي الله عنهما )",
+      "part": 51,
+      "row": 12,
+      "offset": 414
+    },
+    {
+      "title": "( فضائل خديجة وغيرها )",
+      "part": 52,
+      "row": 0,
+      "offset": 192
+    },
+    {
+      "title": "( فضائل عمار بن ياسر رضي الله عنه )",
+      "part": 52,
+      "row": 10,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل أهل اليمن )",
+      "part": 52,
+      "row": 14,
+      "offset": 323
+    },
+    {
+      "title": "( فضائل عائشة أم المؤمنين رضي الله عنها وغير ذلك في أهل اليمن )",
+      "part": 53,
+      "row": 6,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل بني غفار وأسلم وغيرهم )",
+      "part": 54,
+      "row": 4,
+      "offset": 230
+    },
+    {
+      "title": "( فضائل جعفر بن أبي طالب رضي الله عنه )",
+      "part": 54,
+      "row": 12,
+      "offset": 119
+    },
+    {
+      "title": "( فضائل جرير بن عبد الله رضي الله عنه )",
+      "part": 54,
+      "row": 14,
+      "offset": 214
+    },
+    {
+      "title": "( فضائل عبد الله بن عمر رضي الله عنهما )",
+      "part": 55,
+      "row": 2,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل قوم شتى من أهل الشام )",
+      "part": 55,
+      "row": 3,
+      "offset": 559
+    },
+    {
+      "title": "( فضائل أصحاب النبي صلى الله عليه ms387 وسلم )",
+      "part": 56,
+      "row": 0,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل عمرو بن العاص رضي الله عنه )",
+      "part": 56,
+      "row": 4,
+      "offset": 0
+    },
+    {
+      "title": "( فضائل معاوية بن أبي ms390 سفيان رضي الله عنهما )",
+      "part": 56,
+      "row": 6,
+      "offset": 214
+    },
+    {
+      "title": "( فضائل أبي الفضل العباس بن عبد المطلب عم رسول الله صلى الله عليه",
+      "part": 56,
+      "row": 8,
+      "offset": 305
+    },
+    {
+      "title": "( فضائل عبد الله بن عباس رضي الله عنه )",
+      "part": 58,
+      "row": 12,
+      "offset": 365
+    }
+  ],
+  "parts": [
+    {
+      "path": "books/ahmad_fadail_sahaba/0001.json",
+      "title": "PageV01P001 — PageV01P060",
+      "bytes": 12516,
+      "sha256": "44f47cc3cadb10b53f3fe61d305eb75df275d2ffa9703bc145a7d9973987d5f9"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0002.json",
+      "title": "PageV01P061 — PageV01P075",
+      "bytes": 13457,
+      "sha256": "d518696ffcfdb8587bfc8dac03e725ad6c3afd916cefe0a78e04bcae94edb264"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0003.json",
+      "title": "PageV01P076 — PageV01P091",
+      "bytes": 11971,
+      "sha256": "4c43f018714e6c4f2127d6ca930bcad81be51ab9b107a3b4e011974805c8ebb6"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0004.json",
+      "title": "PageV01P092 — PageV01P107",
+      "bytes": 13344,
+      "sha256": "b0450da235fe4ed574de0395f08398f7767115ad260190594fbad9f517dee941"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0005.json",
+      "title": "PageV01P108 — PageV01P128",
+      "bytes": 19866,
+      "sha256": "9721a826b21b619148c7650b06aebbec2e8862e5975d6e35ddd1ea58bb041f41"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0006.json",
+      "title": "PageV01P129 — PageV01P143",
+      "bytes": 12337,
+      "sha256": "5b68ead516ec1607e526ae827511643ec5f639488f54baf0838f64c9dbf9c1a0"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0007.json",
+      "title": "PageV01P144 — PageV01P158",
+      "bytes": 13828,
+      "sha256": "e07b768723d7ea23d7d4674e59902ec6aa311227b78bdaef39ad0fc7fdeee078"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0008.json",
+      "title": "PageV01P159 — PageV01P173",
+      "bytes": 17532,
+      "sha256": "b7c38f0b0ebc93ad5aae42f916c56d3a6afca1fbc800291a55de58efe3be2e88"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0009.json",
+      "title": "PageV01P174 — PageV01P189",
+      "bytes": 18581,
+      "sha256": "91be3936b09fbde20e59540581ebc3a815170859ee584eb57af6c0c93bb18c2e"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0010.json",
+      "title": "PageV01P190 — PageV01P205",
+      "bytes": 17290,
+      "sha256": "08b593f41c22a46accf5960c32827deca7853c9b9439273895d0e0cbd2cdf7b7"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0011.json",
+      "title": "PageV01P206 — PageV01P220",
+      "bytes": 19610,
+      "sha256": "fc1036dc93044f843d714d94287d29a25b8d681f6895303ab33de239d2ef80c0"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0012.json",
+      "title": "PageV01P221 — PageV01P235",
+      "bytes": 19632,
+      "sha256": "5d0ed94723862e3c60fd015c843a70161c1554b67204a1a833541e9748d66932"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0013.json",
+      "title": "PageV01P236 — PageV01P250",
+      "bytes": 17452,
+      "sha256": "ee7c6fcc1e75dcf4c1f78a1456bf2788cfcb416920776a0a7e54d357d163bdf4"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0014.json",
+      "title": "PageV01P251 — PageV01P265",
+      "bytes": 18823,
+      "sha256": "2aa0dbc5aa3741520034477e7f7fb8bcebf66a4e7e845a337f5b99f227793c74"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0015.json",
+      "title": "PageV01P266 — PageV01P281",
+      "bytes": 25663,
+      "sha256": "508746ef3efdca34f8d713d0fd66a9ab39809413d36ec8db69303d19ce26a525"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0016.json",
+      "title": "PageV01P282 — PageV01P296",
+      "bytes": 29782,
+      "sha256": "35e6f7bcb2d1a72e0922453e8061a7a2813f09da80b1f176b03a7f1f207dbd5b"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0017.json",
+      "title": "PageV01P297 — PageV01P311",
+      "bytes": 21281,
+      "sha256": "7cc2604506c972824951c5dde422931c3bce6fb889fdbe528f9438d96ff6a80e"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0018.json",
+      "title": "PageV01P312 — PageV01P326",
+      "bytes": 20190,
+      "sha256": "5c31425b77ba95fa8316ffc68df0df5ed60722071086064fef09b6dba48d5553"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0019.json",
+      "title": "PageV01P327 — PageV01P341",
+      "bytes": 20598,
+      "sha256": "43c046862c024a22ab093ef8a12cfc87c229cbf38ea7b969cb92e453f3633f30"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0020.json",
+      "title": "PageV01P342 — PageV01P356",
+      "bytes": 20994,
+      "sha256": "51bc112961053e70b1a45958325130a310a8a867fbeef54c8f35dcbceba696a3"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0021.json",
+      "title": "PageV01P357 — PageV01P372",
+      "bytes": 22450,
+      "sha256": "fc23027cfe633d8f828e028d8a5f15b83e13eb7d7b95f7c01ad752494d4767ca"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0022.json",
+      "title": "PageV01P373 — PageV01P387",
+      "bytes": 17884,
+      "sha256": "a93a2475d642ca4f669dbabe8700c59bbf37fbecba9334c6059df181d3610d81"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0023.json",
+      "title": "PageV01P388 — PageV01P402",
+      "bytes": 20096,
+      "sha256": "809c79ae154a71c326ee331decc5acc5255ca596e99ee93130792f402e0f42ca"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0024.json",
+      "title": "PageV01P403 — PageV01P417",
+      "bytes": 20920,
+      "sha256": "1479ec83b5aa6ccbdf8abc625d611c936c2db11586d6b8a8441d3cf7cb9cc647"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0025.json",
+      "title": "PageV01P418 — PageV01P432",
+      "bytes": 18618,
+      "sha256": "00944b89f81e14b8128dda7db8214681cc31e6db7d9e1f2cd18aa15f0ad0fecd"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0026.json",
+      "title": "PageV01P433 — PageV01P447",
+      "bytes": 21472,
+      "sha256": "c259ffecf52867cd1b2b35ae31826ff924a535aee327833317986087f41633a5"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0027.json",
+      "title": "PageV01P448 — PageV01P462",
+      "bytes": 22292,
+      "sha256": "9aed5456f5c45f1e34daf994fcc66c5892cf444d406bb3d4419cfc4666a84991"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0028.json",
+      "title": "PageV01P463 — PageV01P477",
+      "bytes": 28699,
+      "sha256": "382407851e872d96eb56e33151e54c6bdf5cfd35822bd06777e8424e0931b5a7"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0029.json",
+      "title": "PageV01P478 — PageV01P493",
+      "bytes": 25045,
+      "sha256": "08f54345963392db9e907bd324bd003b72db5d656c627a818728873354882bc9"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0030.json",
+      "title": "PageV01P494 — PageV01P508",
+      "bytes": 26377,
+      "sha256": "f6670f39020cad38d40f901a01340140ca1e3e6b040690b817ab7245b56d434e"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0031.json",
+      "title": "PageV01P509 — PageV01P523",
+      "bytes": 24127,
+      "sha256": "1db25e324ed744c7d0e78d1d1c78dc8acc1c20ebd7cfa34866fe9938b5351204"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0032.json",
+      "title": "PageV01P524 — PageV01P538",
+      "bytes": 17811,
+      "sha256": "0f6c0c6c48ef08e8b17ea7596eedace51349b9c3a80cceb033ebd8b6cebfd117"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0033.json",
+      "title": "PageV01P539 — PageV02P555",
+      "bytes": 17495,
+      "sha256": "872e499d466646eab7ebb91dfe5fb883871eb93fcc8fdb3c692bc2c2bca49bc2"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0034.json",
+      "title": "PageV02P556 — PageV02P571",
+      "bytes": 17523,
+      "sha256": "32307e99227fc8b875a50021ebef560b0fcbb611cd6a13121c3222f636ba2598"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0035.json",
+      "title": "PageV02P572 — PageV02P587",
+      "bytes": 21006,
+      "sha256": "903396216880190efe3b18548d340e43950c631a5d7011061fbe3eb0eaf5b7e7"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0036.json",
+      "title": "PageV02P588 — PageV02P602",
+      "bytes": 19871,
+      "sha256": "16d526e4d11439ad7c73ee93bfcc57749536c592559dca0bbd5b8596574c8871"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0037.json",
+      "title": "PageV02P603 — PageV02P617",
+      "bytes": 21862,
+      "sha256": "835908cbf1e0b482095c0355b7598576354609dda5d0df5bd0157b0f6311b5e1"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0038.json",
+      "title": "PageV02P618 — PageV02P632",
+      "bytes": 18074,
+      "sha256": "d4884f6e3406fe54d646c8b60a8c05d71ee1c87823ab3c206fa465fc6f7fbc34"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0039.json",
+      "title": "PageV02P633 — PageV02P649",
+      "bytes": 22039,
+      "sha256": "4c72c1104e8dbacde87f31f2ddcc43363cbf9d1cd26cd2bb8365402f0dfffeda"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0040.json",
+      "title": "PageV02P650 — PageV02P664",
+      "bytes": 20383,
+      "sha256": "fdf9bb9e502631c8df56129165ad2fe62e83449d869c9b62b9a2296d4995064d"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0041.json",
+      "title": "PageV02P665 — PageV02P679",
+      "bytes": 19917,
+      "sha256": "def3988085de81f0ac3b43e2116515b1b053e1373bd58b7b29562479d9a81051"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0042.json",
+      "title": "PageV02P680 — PageV02P694",
+      "bytes": 26053,
+      "sha256": "8a42b9819f6a333887f2eb074378bb713c4e51355a777a8dd85e66cec47fcae3"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0043.json",
+      "title": "PageV02P695 — PageV02P710",
+      "bytes": 22257,
+      "sha256": "9091e702169ebe5c785d2b0957b97b6a4552929f74b007ed5ab4edb20f63bcbc"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0044.json",
+      "title": "PageV02P711 — PageV02P725",
+      "bytes": 23917,
+      "sha256": "e22e6c6dc70a2b69559c1695f8127153451e8b3639677b1bbf21bdcfb11fc893"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0045.json",
+      "title": "PageV02P726 — PageV02P741",
+      "bytes": 21464,
+      "sha256": "094983d143bb993b1e51e4aec08f25af5f9b21f77dc7809b585d9e2e97ad9cd1"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0046.json",
+      "title": "PageV02P742 — PageV02P756",
+      "bytes": 23918,
+      "sha256": "1145129183850273cc0303c72e3945e0df156d723fc574077ac0a7d793287182"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0047.json",
+      "title": "PageV02P757 — PageV02P771",
+      "bytes": 21508,
+      "sha256": "fef477fc0967713815fd6eb20afffd5ade2870cafb44d702081191766453bbb4"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0048.json",
+      "title": "PageV02P772 — PageV02P786",
+      "bytes": 25997,
+      "sha256": "0cb7fc99b0e88033d7fdcbd73ef9ada07f453596dc102c60153ca0f658859e8e"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0049.json",
+      "title": "PageV02P787 — PageV02P801",
+      "bytes": 22984,
+      "sha256": "2b1d6b443898687f4726012f61e70c3dc9d6a8b79430dd4def82f8abc8ca6056"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0050.json",
+      "title": "PageV02P802 — PageV02P816",
+      "bytes": 22021,
+      "sha256": "d0711330d4909102bfd6151a7a9482a40a3d781c867ad8299439d11ef050cddd"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0051.json",
+      "title": "PageV02P817 — PageV02P831",
+      "bytes": 23309,
+      "sha256": "4c26edd6a8dde43a8a78815dc3cbf162db0095b856d466a81c3b8a6de9381d70"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0052.json",
+      "title": "PageV02P832 — PageV02P846",
+      "bytes": 20314,
+      "sha256": "bd9bc24d77d85a9508aaa5e2a00c56294c13ed1f7cbc4cf4fe6567b01144209f"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0053.json",
+      "title": "PageV02P847 — PageV02P861",
+      "bytes": 21348,
+      "sha256": "516c0a963f564b32335bd01bd67c04b75718369bb8881a18fb8de5d11c5e14a0"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0054.json",
+      "title": "PageV02P862 — PageV02P876",
+      "bytes": 23187,
+      "sha256": "e2446b668cd1925c08bf3f6c19927d5abd91abce2fcffdfe9397c469fe6d22ad"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0055.json",
+      "title": "PageV02P877 — PageV02P891",
+      "bytes": 23031,
+      "sha256": "5bd5e08aac66101812d0229d3207b75c821263c2bdd3a24ab3926a38adf5b083"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0056.json",
+      "title": "PageV02P892 — PageV02P906",
+      "bytes": 17642,
+      "sha256": "1fa663890cf8148d77ad2178a4aa169869ec6d8f8f813b1729c68273254ea2bc"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0057.json",
+      "title": "PageV02P907 — PageV02P921",
+      "bytes": 19910,
+      "sha256": "f7ce05c36e3baa7f8044ae51cac877b3c9320330088cb8f6b89e69a5c98bfef2"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0058.json",
+      "title": "PageV02P922 — PageV02P936",
+      "bytes": 25894,
+      "sha256": "fe56546632bea921152ad1450b28c3caba36670028a03eb42eba1bf012714627"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0059.json",
+      "title": "PageV02P937 — PageV02P951",
+      "bytes": 24874,
+      "sha256": "ddee72b6c217b5e1279aad48690cbfb831fa14c586a1051e35371b2db9ddb5b1"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0060.json",
+      "title": "PageV02P952 — PageV02P966",
+      "bytes": 23450,
+      "sha256": "a59996d3ddfd5ec0a6be4729d7d30d5fa47166528c7b61dd60ef2c2838a7d2b7"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0061.json",
+      "title": "PageV02P967 — PageV02P981",
+      "bytes": 22932,
+      "sha256": "5c24aaa83f2d3f9ddb4d6110244adf9f26f74797320a27b62204aee053b8f8fd"
+    },
+    {
+      "path": "books/ahmad_fadail_sahaba/0062.json",
+      "title": "PageV02P982 — end",
+      "bytes": 13248,
+      "sha256": "985c76d2c51925a079180e9206618ce778ae7e65b4b9be9a5277395278fd40f6"
+    }
+  ],
+  "reviewReference": "https://islamhouse.com/ar/books/2103/",
+  "enabled": true
+}

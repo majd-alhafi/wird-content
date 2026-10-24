@@ -232,3 +232,11 @@ and downloaded by surah on demand rather than bundled in the APK.
 ## Additional Sunni hadith references (2026-10-22)
 
 Sahih Ibn Khuzaymah, Sahih Ibn Hibban (Ibn Balban arrangement), and Muwatta Malik are added as OpenITI v2025.1.9 text editions under the existing corpus CC BY-NC-SA 4.0 terms. Exact editions, reference links and limitations are recorded in ADDITIONAL_HADITH.md. Inclusion does not invent an authenticity grade for every report.
+
+
+## Pending update 2026-10-24
+
+- `assets/data/place-names.json`: verified GeoNames alternate names for 17,265 existing city IDs, in nine offered UI languages where available. GeoNames CC BY 4.0, attribution to GeoNames (https://www.geonames.org/), source https://download.geonames.org/export/dump/alternatenames/ and terms https://download.geonames.org/export/dump/readme.txt . Original coordinates/time zones are unchanged. Missing translated names retain the original name. Source archive hashes and coverage are in `assets/licenses/place-names.json`.
+- Country display names use Unicode CLDR from unicode-org/cldr-json under Unicode License V3, bundled verbatim at `assets/licenses/Unicode-3.0.txt`. No runtime translation service.
+- `android/app/src/main/res/font/wird_amiri.ttf` and `wird_amiri_bold.ttf` are exact copies of the existing licensed Amiri Regular/Bold assets under SIL OFL 1.1; original notices remain in assets/licenses. Widget geometry is app-authored native drawing; no new photograph is introduced.
+- `ahmad_fadail_sahaba`: OpenITI v2025.1.9, `0241IbnHanbal.FadailSahaba.JK000482-ara1.mARkdown`, CC BY-NC-SA 4.0 with attribution to OpenITI. Text source, source SHA256 and per-part integrity records are in the content manifest and `sources/fadail-sahaba.json`. 925 source segments / 62 files, not a report-count claim. Noncommercial and share-alike restrictions apply. See LIBRARY_MANAGEMENT.md. The separately found IslamHouse PDF is NOT mirrored or bundled: no independent redistribution grant for that scan was established.
